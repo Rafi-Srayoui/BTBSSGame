@@ -28,3 +28,11 @@ The game is fully rendered on an HTML5 `<canvas>` and showcases:
 - Random bricks may drop a **power-up**, allowing the paddle to shoot bullets (press `S`).
 - Score is shown in the top-left corner.
 
+### Installation
+Open index.html in your browser:
+
+No server or installation needed.
+Works offline in any modern browser (Chrome, Firefox, etc.).
+
+
+
